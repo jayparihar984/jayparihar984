@@ -23,6 +23,10 @@
       <td>AWS, Docker, GCP, CI/CD</td>    
     </tr>
     <tr>
+      <td><b>🥽 Test Frameworks</b></td>
+      <td>Jest, Sonarqube, Jasmin and Karma </td>    
+    </tr>
+    <tr>
       <td><b>🖖 Other</b></td>
       <td>Lambda, Serverless, GraphQL, Git, JIRA, Microservices</td>    
     </tr>
