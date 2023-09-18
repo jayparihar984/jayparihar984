@@ -36,12 +36,12 @@
 
 <h3>Expertise</h3>
 <ul>
-  <li>Excellent knowledge and experience in creating Restful APIs using NodeJS</li>
-  <li>Profound knowledge of frontend technologies like Reactjs, Angular, and Vuejs</li>
-  <li>Proficient in MongoDB NoSQL database</li>
-  <li>Database design including indexes and data integrity</li>
-  <li>Hand-on experience in integrating various third-party APIs such as Payment Gateways, SMS, Email, Shipping etc.</li>
-  <li>Team player with good technical, analytical & communication skills</li>
-  <li>Understanding of HTTP protocol, REST/RESTful web services, SOAP, JSON, XML</li>
+  <li>Extensive knowledge in building SaaS applications and scaling them.</li>
+  <li>Ability to effectively manage a team of 3-4 developers working on the same project.</li>
+  <li>Proficient in building normalized database schemas.</li>
+  <li>Excellent knowledge of code review and establishing best development practices.</li>
+  <li>Hand-on experience in integrating various third-party APIs such as Payment Gateways, SMS, Email, Shipping, etc.</li>
+  <li>Team player with good technical, analytical & communication skills.</li>
+  <li>Advocate of agile and test-driven development methodologies.</li>
 </ul>
 
