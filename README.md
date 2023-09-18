@@ -16,11 +16,15 @@
     </tr>
      <tr>
       <td><b>🎲 Database</b></td>
-      <td>MongoDB, MySQL, PostreSQL</td>    
+      <td>MongoDB, MySQL, PostreSQL, DynamoDB</td>    
     </tr>
      <tr>
       <td><b>🚀 DevOps</b></td>
       <td>AWS, Docker, GCP, CI/CD</td>    
+    </tr>
+    <tr>
+      <td><b>🖖 Other</b></td>
+      <td>Lambda, Serverless, GraphQL, Git, JIRA, Microservices</td>    
     </tr>
 	 
   </tbody>
