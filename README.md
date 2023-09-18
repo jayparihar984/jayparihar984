@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td><b>🥽 Test Frameworks</b></td>
-      <td>Jest, Sonarqube, Jasmin and Karma </td>    
+      <td>Jest, Sonarqube, Jasmine and Karma </td>    
     </tr>
     <tr>
       <td><b>🖖 Other</b></td>
