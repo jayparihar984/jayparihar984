@@ -60,10 +60,10 @@
 </ul>
 <h3>Articles</h3>
 <ul>
-  <li><a href="https://www.imensosoftware.com/building-scalable-and-maintainable-web-applications-with-angularjs/">Building Scalable and Maintainable Web Applications with Angular</a></li>
-  <li><a href="https://www.imensosoftware.com/nodejs-security-best-practices-for-keeping-your-application-safe-from-threats/">NodeJS Security: Best Practices for Keeping Your Application Safe from Threats</a></li>
-  <li><a href="https://www.imensosoftware.com/how-to-build-a-scalable-ecommerce-platform-with-mean-stack/">How to Build a Scalable eCommerce Platform with MEAN Stack</a></li>
-  <li><a href="https://www.imensosoftware.com/using-react-for-front-end-development-features-benefits/">Using React for Front-End Development – Features & Benefits</a></li>
+  <li><a href="https://www.imensosoftware.com/building-scalable-and-maintainable-web-applications-with-angularjs/" target="_blank">Building Scalable and Maintainable Web Applications with Angular</a></li>
+  <li><a href="https://www.imensosoftware.com/nodejs-security-best-practices-for-keeping-your-application-safe-from-threats/" target="_blank">NodeJS Security: Best Practices for Keeping Your Application Safe from Threats</a></li>
+  <li><a href="https://www.imensosoftware.com/how-to-build-a-scalable-ecommerce-platform-with-mean-stack/" target="_blank">How to Build a Scalable eCommerce Platform with MEAN Stack</a></li>
+  <li><a href="https://www.imensosoftware.com/using-react-for-front-end-development-features-benefits/" target="_blank">Using React for Front-End Development – Features & Benefits</a></li>
 </ul>
 
 
