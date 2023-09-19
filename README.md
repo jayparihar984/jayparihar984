@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td><b>🧲 Integrations</b></td>
-      <td>PayPal, Authorize, Stripe, Twilio, SendGrid, Mailchimp, Zoho, Drive, Box, Dropbox, Google Places, Waystar, Social media logins </td>    
+      <td>PayPal, Authorize, Stripe, Twilio, SendGrid, Mailchimp, Zoho, Drive, Dropbox, Google Places, Waystar</td>    
     </tr>
     <tr>
       <td><b>🖖 Other</b></td>
