@@ -53,10 +53,6 @@
   <li>Product Engineering</li>
   <li>Software Modernization</li>
   <li>Maintenance and Support</li>
-  <li>Excellent knowledge of code review and establishing best development practices.</li>
-  <li>Hand-on experience in integrating various third-party APIs such as Payment Gateways, SMS, Email, Shipping, etc.</li>
-  <li>Team player with good technical, analytical & communication skills.</li>
-  <li>Advocate of agile and test-driven development methodologies.</li>
 </ul>
 <h3>Articles</h3>
 <ul>
