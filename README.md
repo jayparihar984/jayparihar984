@@ -7,7 +7,7 @@
   <li>Extensive experience in building SaaS applications and scaling them.</li>
   <li>Ability to effectively manage a team of 3-4 developers working on the same project.</li>
   <li>Proficient in building normalized database schemas.</li>
-  <li>Excellent knowledge of code review and establishing best development practices including SOLID pronciples.</li>
+  <li>Excellent knowledge of code review and establishing best development practices including SOLID principles.</li>
   <li>Hand-on experience in integrating various third-party APIs such as Payment Gateways, SMS, Email, Shipping, etc.</li>
   <li>Team player with good technical, analytical & communication skills.</li>
   <li>Advocate of agile and test-driven development methodologies.</li>
