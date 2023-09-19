@@ -30,7 +30,7 @@
     </tr>
      <tr>
       <td><b>🚀 DevOps</b></td>
-      <td>AWS, Docker, GCP, CI/CD</td>    
+      <td>AWS, Docker, GCP, CI/CD, Kubernetes</td>    
     </tr>
     <tr>
       <td><b>🥽 Test Frameworks</b></td>
