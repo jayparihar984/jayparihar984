@@ -1,6 +1,6 @@
 <h1>Hi there👋</h1>
 
-<p>I'm Jay, a full-stack developer with over 8 years of experience developing and deploying web applications. During this tenure, I have worked in many industries with clients ranging from start-ups to big enterprises.</p>
+<p>I'm Jay, a full-stack developer with over 8 years of experience in developing, deploying and scaling web applications. During this tenure, I have worked in many industries with clients ranging from start-ups to big enterprises.</p>
 
 <h3>Expertise</h3>
 <ul>
