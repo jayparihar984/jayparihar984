@@ -22,7 +22,7 @@
     </tr>
      <tr>
       <td><b>⚙️ Back-end</b></td>
-      <td>Node.js, Laravel, Experess.js, CodeIgniter, CakePHP</td>    
+      <td>Node.js, Laravel, Experess.js, CodeIgniter, CakePHP, PHP</td>    
     </tr>
      <tr>
       <td><b>🎲 Database</b></td>
@@ -37,11 +37,34 @@
       <td>Jest, Sonarqube, Jasmine and Karma </td>    
     </tr>
     <tr>
+      <td><b>🧲 Integrations</b></td>
+      <td>PayPal, Authorize, Stripe, Twilio, SendGrid, Mailchimp, Zoho, Drive, Box, Dropbox, Google Places, Waystar, Social media logins </td>    
+    </tr>
+    <tr>
       <td><b>🖖 Other</b></td>
       <td>Lambda, Serverless, GraphQL, Git, JIRA, Microservices</td>    
     </tr>	 
   </tbody>
 </table>
+<h3>Services</h3>
+<ul>
+  <li>Consultation</li>
+  <li>Custom development</li>
+  <li>Product Engineering</li>
+  <li>Software Modernization</li>
+  <li>Maintenance and Support</li>
+  <li>Excellent knowledge of code review and establishing best development practices.</li>
+  <li>Hand-on experience in integrating various third-party APIs such as Payment Gateways, SMS, Email, Shipping, etc.</li>
+  <li>Team player with good technical, analytical & communication skills.</li>
+  <li>Advocate of agile and test-driven development methodologies.</li>
+</ul>
+<h3>Articles</h3>
+<ul>
+  <li><a href="https://www.imensosoftware.com/building-scalable-and-maintainable-web-applications-with-angularjs/">Building Scalable and Maintainable Web Applications with Angular</a></li>
+  <li><a href="https://www.imensosoftware.com/nodejs-security-best-practices-for-keeping-your-application-safe-from-threats/">NodeJS Security: Best Practices for Keeping Your Application Safe from Threats</a></li>
+  <li><a href="https://www.imensosoftware.com/how-to-build-a-scalable-ecommerce-platform-with-mean-stack/">How to Build a Scalable eCommerce Platform with MEAN Stack</a></li>
+  <li><a href="https://www.imensosoftware.com/using-react-for-front-end-development-features-benefits/">Using React for Front-End Development – Features & Benefits</a></li>
+</ul>
 
 
 
