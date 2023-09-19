@@ -40,6 +40,10 @@
       <td><b>🧲 Integrations</b></td>
       <td>PayPal, Authorize, Stripe, Twilio, SendGrid, Mailchimp, Zoho, Drive, Dropbox, Google Places, Waystar</td>    
     </tr>
+     <tr>
+      <td><b>📚 Libraries</b></td>
+      <td>JQuery, Underscore.js, D3.js, Three.js, Alpine.js, Pixi.js, Algolia, Chart.js, Fusion Charts, Moment.js etc</td>    
+    </tr>
     <tr>
       <td><b>🖖 Other</b></td>
       <td>Lambda, Serverless, GraphQL, Git, JIRA, Microservices</td>    
