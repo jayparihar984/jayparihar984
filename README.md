@@ -22,7 +22,11 @@
     </tr>
      <tr>
       <td><b>⚙️ Back-end</b></td>
-      <td>Node.js, Laravel, Experess.js, CodeIgniter, CakePHP, PHP</td>    
+      <td>Node.js, PHP</td>    
+    </tr>
+     <tr>
+      <td><b>☔ Frameworks</b></td>
+      <td>Laravel, Nestjs, Nextjs, Expressjs</td>    
     </tr>
      <tr>
       <td><b>🎲 Database</b></td>
